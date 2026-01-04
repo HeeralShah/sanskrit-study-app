@@ -15,3 +15,6 @@ cp -r src/* "$DIST_DIR/"
 
 cd "$DIST_DIR"
 zip -r "../../$(basename "$OUT_DIR")/lambda.zip" .
+
+echo "completed zip... created at..."
+ls -lh "$OUT_DIR/lambda.zip"
