@@ -17,4 +17,4 @@ cd "$DIST_DIR"
 zip -r "../../$(basename "$OUT_DIR")/lambda.zip" .
 
 echo "completed zip... created"
-ls -lh "../../$(basename "$OUT_DIR")"
+ls -lh "../../$(basename "$OUT_DIR")/lambda.zip"
