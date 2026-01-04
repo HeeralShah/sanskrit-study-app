@@ -12,5 +12,5 @@ if [ -f "$ZIP_PATH" ]; then
 fi
 mkdir -p "$OUT_DIR"
 cd "$DIST_DIR"
-zip -r "$ZIP_PATH" .
-ls -lh "$ZIP_PATH"
+zip -r "$PWD/../../../$ZIP_PATH" .
+ls -lh "$PWD/../../../$ZIP_PATH"
