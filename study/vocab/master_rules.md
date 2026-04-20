@@ -66,7 +66,7 @@ Vocabulary entries SHOULD be stored in markdown tables unless the user explicitl
 ### 4.1 Core columns
 Use these core columns wherever applicable:
 
-| Sanskrit | Transliteration | Grammatical Info / Derivation | Meaning |
+| Sanskrit | Transliteration | Grammatical Info / Derivation | Meaning | Source | Added Date |
 |----------|-----------------|-------------------------------|---------|
 
 ### 4.2 Column meanings
@@ -75,7 +75,18 @@ Use these core columns wherever applicable:
 - **Grammatical Info / Derivation**: gender, stem type, derivation, samāsa type, kṛdanta/taddhita status, gaṇa/class, pāda, or other concise grammar information as relevant
 - **Meaning**: concise English gloss only
 
-### 4.3 Concision rule
+
+### 4.3 Source column
+- **Source** is mandatory for newly added rows.
+- Use dictionary acronym list format when lookup-backed, for example: `[MW]`, `[Apte]`, `[MW, Apte]`.
+- Use `LLM` when meaning/form was generated from model knowledge rather than dictionary evidence.
+- Use `Manual Lookup` when supplied from analyst/manual research input.
+
+### 4.4 Added Date column
+- **Added Date** should be in `YYYY-MM-DD` format for new rows.
+- Leave historical rows blank unless backfilled intentionally.
+
+### 4.5 Concision rule
 The grammatical column should be information-dense but concise.
 Do not pad with obvious textbook explanations unless requested.
 
