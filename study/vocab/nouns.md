@@ -27,6 +27,7 @@
 | कुल | kula | neuter; primary | family, lineage |  |  |
 | कुसुम | kusuma | neuter; primary | flower, blossom |  |  |
 | कूप | kūpa | masculine; primary | well |  |  |
+| कोकिल | kokila | masculine; primary | cuckoo, songbird | Manual Lookup | 2026-04-21 |
 | कोटर | koṭara | neuter / masculine; primary | hollow, cavity |  |  |
 | क्षय | kṣaya | masculine | loss; waste; diminution; destruction; decay; end | [MW, Apte] | 2026-04-21 |
 | खननं | khananaṃ | neuter | digging; excavating; burying | [Apte] | 2026-04-21 |
@@ -143,6 +144,6 @@
 | सुहृद | suhṛd | masculine | friend; ally; well-disposed person | [MW] | 2026-04-21 |
 | सूर्य | sūrya | masculine; primary | sun |  |  |
 | स्थलं | sthalaṃ | neuter | dry land; ground; place; spot | [Apte] | 2026-04-21 |
-| स्थूल | sthūla | neuter; primary | gross, large |  |  |
+| স্থूल | sthūla | neuter; primary | gross, large |  |  |
 | स्नेह | sneha | masculine; provisional MW cross-reference | affection; fondness; attachment; unctuousness | Manual Lookup | 2026-04-21 |
 | हंस | haṃsa | masculine; primary | swan |  |  |
