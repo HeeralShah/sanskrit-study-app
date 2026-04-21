@@ -41,7 +41,7 @@
 | विद् / विद्यते | vid | class 2; Ā | exist |  |  |
 | स्मृ / स्मरति | smṛ | class 1; P | remember |  |  |
 | कूज / कूजति | kūj | dhatu; class 1; P | to coo; hum; warble; murmur; groan | [MW, Apte] | 2026-04-21 |
-| क्षुध / क्षुध्यति | kṣudh | dhatu; class 4; P | to be hungry; hunger; emaciated by hunger | [MW, Apte] | 2026-04-21 |
+| क्षुध् / क्षुध्यति | kṣudh | dhatu; class 4; P | to be hungry; hunger; emaciated by hunger | [MW, Apte] | 2026-04-21 |
 | प्रयुज / प्रयुङ्क्ते | prayuj | prefixed dhatu from yuj | to employ; apply; yoke; join | [MW, Apte] | 2026-04-21 |
 | प्रतिवस / प्रतिवसति | prativas | prefixed dhatu from vas | to dwell; live; settle; lodge; neighbour | [MW] | 2026-04-21 |
 | वस / वसति | vas | dhatu; class 1; P | to dwell; stay; reside; abide | [MW] | 2026-04-21 |

@@ -28,7 +28,8 @@
 | कुसुम | kusuma | neuter; primary | flower, blossom |  |  |
 | कूप | kūpa | masculine; primary | well |  |  |
 | कोटर | koṭara | neuter / masculine; primary | hollow, cavity |  |  |
-| क्षय | kṣaya | masculine | loss; waste; diminution; destruction; decay; end | [MW, Apte] | 2026-04-21 |
+| क्षय | kṣaya | masculine; MW/Apte cross-reference via kṣi/kṣaya | loss; waste; diminution; destruction; decay; end | [MW, Apte] | 2026-04-21 |
+| क्षुध् | kṣudh | feminine | hunger | [MW, Apte] | 2026-04-21 |
 | खननं | khananaṃ | neuter | digging; excavating; burying | [Apte] | 2026-04-21 |
 | गज | gaja | masculine; primary | elephant |  |  |
 | गमन | gamana | neuter; kṛdanta from √गम् | going, movement, departure |  |  |
@@ -41,6 +42,7 @@
 | जठर | jaṭhara | neuter | stomach; belly; abdomen; womb | [MW, Apte] | 2026-04-21 |
 | जन | jana | masculine; primary | person, people |  |  |
 | जनक | janaka | masculine; primary | father, progenitor |  |  |
+| जननी | jananī | feminine | mother; mercy; tenderness; compassion | [Apte] | 2026-04-21 |
 | जरा | jarā | feminine; primary | old age |  |  |
 | जल | jala | neuter; primary | water |  |  |
 | जीवन | jīvana | neuter; primary | life |  |  |
