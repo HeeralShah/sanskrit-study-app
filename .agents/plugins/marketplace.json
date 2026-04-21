@@ -1,0 +1,20 @@
+{
+  "name": "sanskrit-study-app-local",
+  "interface": {
+    "displayName": "Sanskrit Study App Plugins"
+  },
+  "plugins": [
+    {
+      "name": "sanskrit-dictionary-lookup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sanskrit-dictionary-lookup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

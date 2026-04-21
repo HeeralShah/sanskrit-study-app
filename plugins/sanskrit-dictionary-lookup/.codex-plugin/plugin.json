@@ -1,0 +1,38 @@
+{
+  "name": "sanskrit-dictionary-lookup",
+  "version": "0.1.0",
+  "description": "Lookup Sanskrit dictionary headwords through the C-SALT REST API and return normalized scholarly JSON backed by shared core logic.",
+  "author": {
+    "name": "heera",
+    "email": "heera@example.com",
+    "url": "https://github.com/heera"
+  },
+  "homepage": "https://www.sanskrit-lexicon.uni-koeln.de/",
+  "repository": "https://github.com/heera/sanskrit-study-app",
+  "license": "MIT",
+  "keywords": [
+    "sanskrit",
+    "dictionary",
+    "lexicon",
+    "lookup",
+    "plugin"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sanskrit Dictionary Lookup",
+    "shortDescription": "Search MW and AP90 with normalized scholarly JSON output",
+    "longDescription": "Thin Codex wrapper around shared Sanskrit dictionary core logic that calls the C-SALT REST API for Monier-Williams and Apte 1890, then normalizes the TEI-backed payload for future plugin, MCP, and agent wrappers.",
+    "developerName": "heera",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "websiteURL": "https://www.sanskrit-lexicon.uni-koeln.de/",
+    "privacyPolicyURL": "https://www.sanskrit-lexicon.uni-koeln.de/",
+    "termsOfServiceURL": "https://www.sanskrit-lexicon.uni-koeln.de/",
+    "defaultPrompt": [
+      "Look up a Sanskrit word in MW and AP90 and return normalized JSON."
+    ],
+    "brandColor": "#7A4B24"
+  }
+}
