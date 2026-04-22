@@ -2,7 +2,6 @@
 
 | Sanskrit | Transliteration | Grammatical Info / Derivation | Meaning | Source | Added Date |
 | -------- | --------------- | ----------------------------- | ------- | ------ | ---------- |
-| अउषध | auṣadha | neuter | herb; medicinal drug; medicament; medicine | [MW, Apte] | 2026-04-21 |
 | अङ्कुर | aṅkura | masculine; primary | sprout, shoot |  |  |
 | अधर्म | adharma | masculine | unrighteousness; injustice; irreligion; wickedness; guilt | [MW] | 2026-04-21 |
 | अनिर्वेदः | anirvedaḥ | masculine | non-depression; absence of despondency; self-reliance; courage | [Apte] | 2026-04-21 |
@@ -19,6 +18,7 @@
 | उदक | udaka | neuter; primary | water |  |  |
 | उद्यान | udyāna | neuter; primary | park, garden |  |  |
 | उपदेश | upadeśa | masculine; primary | instruction, teaching |  |  |
+| औषध | auṣadha | neuter | herb; medicinal drug; medicament; medicine | [MW, Apte] | 2026-04-21 |
 | औष्ठ | auṣṭha | masculine; primary | lip |  |  |
 | कर्तार् | kartṛ | masculine; primary | sculptor |  |  |
 | काम | kāma | masculine | desire; wish; longing; pleasure; love | [MW] | 2026-04-21 |
@@ -32,6 +32,7 @@
 | क्षय | kṣaya | masculine; MW/Apte cross-reference via kṣi/kṣaya | loss; waste; diminution; destruction; decay; end | [MW, Apte] | 2026-04-21 |
 | क्षुध् | kṣudh | feminine | hunger | [MW, Apte] | 2026-04-21 |
 | खननं | khananaṃ | neuter | digging; excavating; burying | [Apte] | 2026-04-21 |
+| खाद्य | khādya | neuter noun; gerundive in origin | eatable; food; victuals | [Apte] | 2026-04-22 |
 | गज | gaja | masculine; primary | elephant |  |  |
 | गमन | gamana | neuter; kṛdanta from √गम् | going, movement, departure |  |  |
 | गर्दभ | gardabha | masculine; primary | donkey |  |  |
@@ -51,6 +52,7 @@
 | तटाक | taṭāka | masculine / neuter; primary | pond, pool |  |  |
 | तरङ्ग | taraṅga | masculine; primary | wave |  |  |
 | तारका | tārakā | feminine; primary | star |  |  |
+| तृण | tṛṇa | neuter | grass; herb; blade of grass; straw; something minute or worthless (figurative) | [MW] | 2026-04-22 |
 | तोयद | toyada | masculine; primary | cloud |  |  |
 | दंष्ट्रा | daṃṣṭrā | feminine | fang; tusk; large tooth | [Apte] | 2026-04-21 |
 | दन्त | danta | masculine; primary | tooth |  |  |
